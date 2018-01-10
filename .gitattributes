@@ -1,4 +1,5 @@
 *.ino filter=ssid
+*.ino filter=wifi_password
 *.ino filter=mqtt_topic
 *.ino filter=mqtt_server
 *.ino filter=wifi_key
