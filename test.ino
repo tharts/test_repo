@@ -8,7 +8,7 @@
 
 
 //Yout Wifi SSID
-const char* ssid = "SomeSSID";
+const char* ssid = "Some weired SSID";
 //Your Wifi Key
 const char* password = "A very secret passphrase";
 
